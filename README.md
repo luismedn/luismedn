@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Data Analytics<br>👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence<br>🌱 I’m currently learning Python, Tableau, MySQL, AWS, Artificial intelligence and Deep learning<br>📫 You can reach me at my email luismedds@gmail.com<br>❤️ Photography 📷 Traveling 🌏 Swimming 🏊<br>
+🔭 I’m currently working on Data Analytics<br>👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence<br>🌱 I’m currently mastering Python, Tableau, MySQL, AWS, Artificial intelligence and Deep learning<br>📫 You can reach me at my email luismedds@gmail.com<br>❤️ Photography 📷 Traveling 🌏 Swimming 🏊<br>
 
 
 ## 🌐 Socials:
