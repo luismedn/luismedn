@@ -22,7 +22,7 @@ while (alive) {
 }
 
 // Name this eternal dance: "The Loop of the Data Devotee"
-
+```
 
 
 ## 🌐 Socials:
