@@ -4,7 +4,7 @@
 🔭 I’m currently working on Data Analytics<br>👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence<br>🌱 I’m currently mastering Python, Tableau, MySQL, AWS, Artificial intelligence and Deep learning<br>📫 You can reach me at my email luismedds@gmail.com<br>❤️ Photography 📷 Traveling 🌏 Swimming 🏊<br>
 
 ```java
-// Verify the code's sanity
+// Confirm if the code is in a happy state
 if (isCodeWorking) {
     // Perfection: not achievable but we'll get close
     while (codeQuality < perfection) {
@@ -21,7 +21,7 @@ while (alive) {
     analyzeData(); // The true purpose of life
 }
 
-// Name this eternal dance: "The Loop of the Data Devotee"
+// Luis Medina "The Loop of the Data Devotee"
 ```
 
 
