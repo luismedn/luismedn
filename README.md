@@ -3,6 +3,27 @@
 # 💫 About Me:
 🔭 I’m currently working on Data Analytics<br>👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence<br>🌱 I’m currently mastering Python, Tableau, MySQL, AWS, Artificial intelligence and Deep learning<br>📫 You can reach me at my email luismedds@gmail.com<br>❤️ Photography 📷 Traveling 🌏 Swimming 🏊<br>
 
+```java
+// Verify the code's sanity
+if (isCodeWorking) {
+    // Perfection: not achievable but we'll get close
+    while (codeQuality < perfection) {
+        codeQuality++; // Increment code quality, because why not?
+        grabSnack(); // Snacks: the real MVP
+    }
+}
+
+// The perpetual cycle of existence
+while (alive) {
+    munchOnFood(); // Food is life
+    hitSnoozeButton(); // Sleep: essential for not being a zombie
+    writeEpicCode(); // Code: where dreams come true
+    analyzeData(); // The true purpose of life
+}
+
+// Name this eternal dance: "The Loop of the Data Devotee"
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luismedalf/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/luismedn) 
